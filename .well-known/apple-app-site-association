@@ -7,12 +7,12 @@
 				"paths": [
 					"*"
 				],
-				"components": [
+				"components": {
 					"/": "/*",
 					"?": {"sku": "?*"}
 					"comment": "will match here if an sku is found"
 
-				]
+				}
 			}
 		]
 	}
