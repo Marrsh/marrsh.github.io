@@ -7,6 +7,10 @@
 				"path": "/",
 				"components": {
 					{
+						"/": "/",
+						"comment": "navigate to home route"
+					},
+					{
 						"/": "/catalog/product/*",
 						"comment": "navigate to a product where the wild card is the sku"
 					},
