@@ -6,11 +6,11 @@
 				"appID": "RSYJJJ7MLR.couk.ego.mobile",
 				"components": [
 					{
-						"/": "/catalog/product/*"
+						"/": "/catalog/product/*",
 						"comment": "navigate to a product where the wild card is the sku"
 					},
 					{
-						"/": "/catalog/category/*"
+						"/": "/catalog/category/*",
 						"comment": "navigate to a category where the wild card is the category id"
 					}
 				]
