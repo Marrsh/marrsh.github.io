@@ -4,11 +4,8 @@
 		"details": [
 			{
 				"appID": "RSYJJJ7MLR.couk.ego.mobile",
+				"paths": "/",
 				"components": {
-					{
-						"/": "",
-						"comment": "navigate to the homepage/home screen"
-					},
 					{
 						"/": "/catalog/product/*",
 						"comment": "navigate to a product where the wild card is the sku"
