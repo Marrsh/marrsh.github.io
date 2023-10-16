@@ -4,14 +4,11 @@
 		"details": [
 			{
 				"appID": "RSYJJJ7MLR.couk.ego.mobile",
-				"paths": [
-					"*"
-				],
+				"paths": ["*"],
 				"components": {
 					"/": "/*",
-					"?": {"sku": "?*"}
+					"?": { "sku": "?*" },
 					"comment": "will match here if an sku is found"
-
 				}
 			}
 		]
