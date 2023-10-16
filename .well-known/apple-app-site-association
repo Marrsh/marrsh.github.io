@@ -4,12 +4,16 @@
 		"details": [
 			{
 				"appID": "RSYJJJ7MLR.couk.ego.mobile",
-
-				"components": {
-					"/": "/*",
-					"?": { "sku": "?*" },
-					"comment": "will match here if an sku is found"
-				}
+				"components": [
+					{
+						"/": "/catalog/product/*"
+						"comment": "navigate to a product where the wild card is the sku"
+					},
+					{
+						"/": "/catalog/category/*"
+						"comment": "navigate to a category where the wild card is the category id"
+					}
+				]
 			},
 
 
