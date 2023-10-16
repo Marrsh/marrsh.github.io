@@ -4,7 +4,7 @@
 		"details": [
 			{
 				"appID": "RSYJJJ7MLR.couk.ego.mobile",
-				"components": {
+				"components": [
 					{
 						"/": "/details",
 						"comment": "navigate to home page"
@@ -17,7 +17,7 @@
 						"/": "/catalog/category/*",
 						"comment": "navigate to a category where the wild card is the category id"
 					}
-				}
+				]
 			},
 
 
