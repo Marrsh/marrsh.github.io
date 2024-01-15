@@ -2,7 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.reach-studios.story2share",
+    "package_name": "com.reach_studios.story2share",
     "sha256_cert_fingerprints":
     ["7C:EB:A3:A1:A9:A4:47:14:2A:E3:70:4A:57:6E:E4:A7:4C:9D:A4:A5:68:72:29:F3:B2:ED:01:10:7D:D0:F3:22"]
   }
