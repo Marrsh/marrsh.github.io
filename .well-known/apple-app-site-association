@@ -4,7 +4,10 @@
       "details": [
       {
         "appID": "H5AQGPNQT6.com.reach-studios.story2share",
-        "paths": ["*"]
+        "components": [{
+          "/magic-link-login": "/magic-link-login",
+          "?": {"token": "????"}
+        }]
       }
     ]
   }
